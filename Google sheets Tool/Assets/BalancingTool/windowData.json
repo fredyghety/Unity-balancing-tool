@@ -1,0 +1,342 @@
+{
+    "table": {
+        "rows": [
+            {
+                "y": 2,
+                "serializedRowDictionary": [
+                    {
+                        "key": " \"stats 1 #Unity\"",
+                        "value": {
+                            "x": 1,
+                            "value": 12.0
+                        }
+                    },
+                    {
+                        "key": " \"stats2 #Unity\"",
+                        "value": {
+                            "x": 2,
+                            "value": 16.0
+                        }
+                    },
+                    {
+                        "key": " \"stats 3 #Unity\"",
+                        "value": {
+                            "x": 3,
+                            "value": 2.0
+                        }
+                    }
+                ]
+            },
+            {
+                "y": 3,
+                "serializedRowDictionary": [
+                    {
+                        "key": " \"stats 1 #Unity\"",
+                        "value": {
+                            "x": 1,
+                            "value": 13.0
+                        }
+                    },
+                    {
+                        "key": " \"stats2 #Unity\"",
+                        "value": {
+                            "x": 2,
+                            "value": 20.0
+                        }
+                    },
+                    {
+                        "key": " \"stats 3 #Unity\"",
+                        "value": {
+                            "x": 3,
+                            "value": 22.0
+                        }
+                    }
+                ]
+            },
+            {
+                "y": 4,
+                "serializedRowDictionary": [
+                    {
+                        "key": " \"stats 1 #Unity\"",
+                        "value": {
+                            "x": 1,
+                            "value": 14.0
+                        }
+                    },
+                    {
+                        "key": " \"stats2 #Unity\"",
+                        "value": {
+                            "x": 2,
+                            "value": 39.0
+                        }
+                    },
+                    {
+                        "key": " \"stats 3 #Unity\"",
+                        "value": {
+                            "x": 3,
+                            "value": 2222222.0
+                        }
+                    }
+                ]
+            },
+            {
+                "y": 5,
+                "serializedRowDictionary": []
+            },
+            {
+                "y": 6,
+                "serializedRowDictionary": []
+            },
+            {
+                "y": 7,
+                "serializedRowDictionary": []
+            },
+            {
+                "y": 8,
+                "serializedRowDictionary": [
+                    {
+                        "key": " \"stats 1 #Unity\"",
+                        "value": {
+                            "x": 1,
+                            "value": 213123.0
+                        }
+                    },
+                    {
+                        "key": " \"stats2 #Unity\"",
+                        "value": {
+                            "x": 2,
+                            "value": 125125.0
+                        }
+                    },
+                    {
+                        "key": " \"stats 3 #Unity\"",
+                        "value": {
+                            "x": 3,
+                            "value": 63216.0
+                        }
+                    }
+                ]
+            },
+            {
+                "y": 9,
+                "serializedRowDictionary": []
+            }
+        ]
+    },
+    "balancingSettings": {
+        "_sheetsLink": "https://docs.google.com/spreadsheets/d/18Uq9PBOPOLQ0riR4CxH9M_wyoeI7Z0aFuA65TxS4DnE/edit?gid=0#gid=0",
+        "_sheetsID": "18Uq9PBOPOLQ0riR4CxH9M_wyoeI7Z0aFuA65TxS4DnE",
+        "_pageName": "nySide",
+        "_APIKey": "AIzaSyAnsKpNMQgW4kWLP8PXBimVsiRfYFdOG4g",
+        "_tag": "#Unity",
+        "_savePath": "Assets"
+    },
+    "prestigeTables": [
+        {
+            "rows": [
+                {
+                    "y": 0,
+                    "serializedRowDictionary": [
+                        {
+                            "key": " \"Wave #Unity\"",
+                            "value": {
+                                "x": 0,
+                                "value": 100.0
+                            }
+                        },
+                        {
+                            "key": " \"Monsters #Unity\"",
+                            "value": {
+                                "x": 0,
+                                "value": 700.0
+                            }
+                        },
+                        {
+                            "key": " \"Cats #Unity\"",
+                            "value": {
+                                "x": 0,
+                                "value": 850.0
+                            }
+                        },
+                        {
+                            "key": " \"dogs #Unity\"",
+                            "value": {
+                                "x": 0,
+                                "value": 1000.0
+                            }
+                        }
+                    ]
+                },
+                {
+                    "y": 0,
+                    "serializedRowDictionary": [
+                        {
+                            "key": " \"Wave #Unity\"",
+                            "value": {
+                                "x": 0,
+                                "value": 207.547607421875
+                            }
+                        },
+                        {
+                            "key": " \"Monsters #Unity\"",
+                            "value": {
+                                "x": 0,
+                                "value": 436.7904968261719
+                            }
+                        },
+                        {
+                            "key": " \"Cats #Unity\"",
+                            "value": {
+                                "x": 0,
+                                "value": 700.0
+                            }
+                        },
+                        {
+                            "key": " \"dogs #Unity\"",
+                            "value": {
+                                "x": 0,
+                                "value": 547.169921875
+                            }
+                        }
+                    ]
+                },
+                {
+                    "y": 0,
+                    "serializedRowDictionary": [
+                        {
+                            "key": " \"Wave #Unity\"",
+                            "value": {
+                                "x": 0,
+                                "value": 400.0
+                            }
+                        },
+                        {
+                            "key": " \"Monsters #Unity\"",
+                            "value": {
+                                "x": 0,
+                                "value": 100.0
+                            }
+                        },
+                        {
+                            "key": " \"Cats #Unity\"",
+                            "value": {
+                                "x": 0,
+                                "value": 700.0
+                            }
+                        },
+                        {
+                            "key": " \"dogs #Unity\"",
+                            "value": {
+                                "x": 0,
+                                "value": 400.0
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "rows": [
+                {
+                    "y": 0,
+                    "serializedRowDictionary": [
+                        {
+                            "key": " \"Wave #Unity\"",
+                            "value": {
+                                "x": 0,
+                                "value": 100.0
+                            }
+                        },
+                        {
+                            "key": " \"Monsters #Unity\"",
+                            "value": {
+                                "x": 0,
+                                "value": 700.0
+                            }
+                        },
+                        {
+                            "key": " \"Cats #Unity\"",
+                            "value": {
+                                "x": 0,
+                                "value": 850.0
+                            }
+                        },
+                        {
+                            "key": " \"dogs #Unity\"",
+                            "value": {
+                                "x": 0,
+                                "value": 1000.0
+                            }
+                        }
+                    ]
+                },
+                {
+                    "y": 0,
+                    "serializedRowDictionary": [
+                        {
+                            "key": " \"Wave #Unity\"",
+                            "value": {
+                                "x": 0,
+                                "value": 207.547607421875
+                            }
+                        },
+                        {
+                            "key": " \"Monsters #Unity\"",
+                            "value": {
+                                "x": 0,
+                                "value": 436.7904968261719
+                            }
+                        },
+                        {
+                            "key": " \"Cats #Unity\"",
+                            "value": {
+                                "x": 0,
+                                "value": 700.0
+                            }
+                        },
+                        {
+                            "key": " \"dogs #Unity\"",
+                            "value": {
+                                "x": 0,
+                                "value": 547.169921875
+                            }
+                        }
+                    ]
+                },
+                {
+                    "y": 0,
+                    "serializedRowDictionary": [
+                        {
+                            "key": " \"Wave #Unity\"",
+                            "value": {
+                                "x": 0,
+                                "value": 400.0
+                            }
+                        },
+                        {
+                            "key": " \"Monsters #Unity\"",
+                            "value": {
+                                "x": 0,
+                                "value": 100.0
+                            }
+                        },
+                        {
+                            "key": " \"Cats #Unity\"",
+                            "value": {
+                                "x": 0,
+                                "value": 700.0
+                            }
+                        },
+                        {
+                            "key": " \"dogs #Unity\"",
+                            "value": {
+                                "x": 0,
+                                "value": 400.0
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

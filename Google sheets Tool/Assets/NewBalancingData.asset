@@ -1,0 +1,78 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6168d3405024c834fbbe0349d61a35ad, type: 3}
+  m_Name: NewBalancingData
+  m_EditorClassIdentifier: 
+  balancingDataVariables:
+    table:
+      rows:
+      - y: 6
+        serializedRowDictionary:
+        - key: ' "Round #Unity"'
+          value:
+            x: 1
+            value: 1
+        - key: ' "Mana #Unity"'
+          value:
+            x: 2
+            value: 7
+        - key: ' "Cost #Unity"'
+          value:
+            x: 3
+            value: 9
+        - key: ' "power #Unity"'
+          value:
+            x: 4
+            value: 54
+      - y: 7
+        serializedRowDictionary:
+        - key: ' "Round #Unity"'
+          value:
+            x: 1
+            value: 2
+        - key: ' "Mana #Unity"'
+          value:
+            x: 2
+            value: 12
+        - key: ' "Cost #Unity"'
+          value:
+            x: 3
+            value: 25
+        - key: ' "power #Unity"'
+          value:
+            x: 4
+            value: 6
+      - y: 8
+        serializedRowDictionary:
+        - key: ' "Round #Unity"'
+          value:
+            x: 1
+            value: 3
+        - key: ' "Mana #Unity"'
+          value:
+            x: 2
+            value: 20
+        - key: ' "Cost #Unity"'
+          value:
+            x: 3
+            value: 112
+        - key: ' "power #Unity"'
+          value:
+            x: 4
+            value: 8
+    balancingSettings:
+      _sheetsLink: https://docs.google.com/spreadsheets/d/1A4K6wkRWdpQyrUYolhA57O50h9P2yJM_kB9Gmcyt2KY/edit?gid=0#gid=0
+      _sheetsID: 1A4K6wkRWdpQyrUYolhA57O50h9P2yJM_kB9Gmcyt2KY
+      _pageName: side1
+      _APIKey: AIzaSyAcTxv2C0fgug_ESiIN9KZ7P3QHkaDFsHA
+      _tag: '#Unity'
+      _savePath: Assets
